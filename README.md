@@ -1,4 +1,4 @@
-
+Dev test – preview deploy virker
 # Crew Planlægger App (Event v0)
 
 En optimeret, mobil-først PWA til crew-medlemmer. Appen henter data direkte fra Google Sheets og gemmer det lokalt (offline-first).
