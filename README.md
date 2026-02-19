@@ -1,3 +1,4 @@
+AI_STUDIO_CHECK
 Dev test – preview deploy virker.
 # Crew Planlægger App (Event v0)
 
